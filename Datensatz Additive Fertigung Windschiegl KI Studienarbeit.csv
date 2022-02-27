@@ -1,4 +1,4 @@
-Seriennummer,Datum,Wochentag,Druckprozess,x Position gr. Lunker,y Position gr. Lunker,z Position gr. Lunker,Ausschuss,Lufteinschluesse %,Min. Temperatur ,Max. Temperatur
+Seriennummer,Datum,Wochentag,Druckprozess,x Position gr Lunker,y Position gr Lunker,z Position gr Lunker,Ausschuss,Lufteinschluesse %,Min. Temperatur ,Max. Temperatur
 838616,11.01.18,Donnerstag,Durchgehend,25,40,84,niO,1.5,211,242
 838617,12.01.18,Freitag,Durchgehend,60,4,91,niO,4.8,210,235
 838618,13.01.18,Samstag,Unterbrochen,63,17,55,niO,1.3,200,258
